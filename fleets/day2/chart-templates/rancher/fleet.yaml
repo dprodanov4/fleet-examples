@@ -3,7 +3,7 @@ defaultNamespace: cattle-system
 helm:
   releaseName: "rancher"
   chart: "rancher"
-  repo: "https://charts.rancher.com/server-charts/prime"
-  version: "2.14.2"
+  repo: "https://releases.rancher.com/server-charts/latest"
+  version: "2.15.0"
   # custom chart value overrides
   values: {}
