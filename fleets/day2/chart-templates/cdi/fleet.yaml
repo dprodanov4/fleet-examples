@@ -3,7 +3,7 @@ defaultNamespace: cdi-system
 helm:
   releaseName: cdi
   chart: "oci://registry.suse.com/edge/charts/cdi"
-  version: "306.0.2+up0.7.0"
+  version: "307.0.3+up0.8.0"
   # custom chart value overrides
   values: {}
 
